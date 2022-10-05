@@ -7,6 +7,6 @@ int main(int argc, char const *argv[])
     a=3;
     b=4;
     sum=a+b;
-    cout<<sum;
+    cout<<"your sum is:"<<sum;
     return 0;
 }
